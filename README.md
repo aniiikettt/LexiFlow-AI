@@ -1,4 +1,4 @@
-# Next Word Predictor — NLP LSTM AI Project
+# LexiFlow-AI — NLP LSTM AI Project
 
 ![AI](https://img.shields.io/badge/AI-NLP-blue?style=for-the-badge) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![ONNX](https://img.shields.io/badge/ONNX-Runtime-gray?style=for-the-badge&logo=onnx&logoColor=white) ![Render](https://img.shields.io/badge/Deployed-Render-46E3B7?style=for-the-badge)
 
