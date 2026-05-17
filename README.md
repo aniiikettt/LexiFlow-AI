@@ -33,21 +33,6 @@ nn.Linear → Logits over Vocabulary (2472 words)
 Softmax + Temperature Scaling → Top-K Probability Output
 ```
 
-## 🛠️ Local Setup
-
-1. **Clone the repository**
-```bash
-git clone https://github.com/parthsahay24/Next-Word-Predictor.git
-cd Next-Word-Predictor
-```
-
-2. **Create a virtual environment and install dependencies**
-```bash
-python -m venv venv
-source venv/bin/activate       # Windows: venv\Scripts\activate
-pip install -r requirements.txt
-pip install torch              # Only needed for training/export (not on server)
-```
 
 3. **Train the model** *(skip if using the pre-trained checkpoint)*
 ```bash
